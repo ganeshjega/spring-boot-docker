@@ -17,7 +17,7 @@ public class Application {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		return "Hello Docker World";
+		return "Hello Docker World from Aru";
 	}
 
 	public static void main(String[] args) {
